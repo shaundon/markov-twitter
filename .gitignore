@@ -2,3 +2,6 @@ config.json
 training-data/*
 !training-data/cher.txt
 *.pyc
+.vscode
+Archive.zip
+.DS_Store
