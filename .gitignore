@@ -1,0 +1,4 @@
+config.json
+training-data/*
+!training-data/cher.txt
+*.pyc
